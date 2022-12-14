@@ -1,3 +1,5 @@
+### Important: This is a complete CosmosDB example Repo - for full functionality an Azure account and a CosmosDB instance is needed, for security reasons, my final version is part of a private REPO, this public REPO needs to be changed with your private account and admin-keys
+
 ## _Disclaimer_
 _Azure SDK Python packages support for Python 2.7 has ended 01 January 2022. For more information and questions, please refer to https://github.com/Azure/azure-sdk-for-python/issues/20691_
 
